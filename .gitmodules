@@ -1,0 +1,3 @@
+[submodule "ndn/RIOT"]
+	path = ndn/RIOT
+	url = https://github.com/cgundogan/RIOT.git
