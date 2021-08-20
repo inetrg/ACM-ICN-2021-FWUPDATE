@@ -1,5 +1,8 @@
 # ACM-ICN-2021-FWUPDATE
-Code and documentation to reproduce experimental results of the paper **Reliable Firmware Updates for the Information-Centric Internet of Things** published in Proc. of ACM ICN 2021.
+
+[![Paper][paper-badge]][paper-link]
+
+Code and documentation to reproduce experimental results of the paper **[Reliable Firmware Updates for the Information-Centric Internet of Things][paper-link]** published in Proc. of ACM ICN 2021.
 
 * Cenk Gündogan, Christian Amsüss, Thomas C. Schmidt, Matthias Wählisch,
 **Reliable Firmware Updates for the Information-Centric Internet of Things**,
@@ -11,3 +14,10 @@ In: Proc. of 8th ACM Conference on Information-Centric Networking (ICN), ACM : N
     > Our design enables a cascading firmware roll-out from a gateway towards leaf nodes in a low-power multi-hop network.
     > While a chunking mechanism prepares firmware images for typically low-sized maximum transmission units (MTUs), an early Denial-of-Service (DoS) detection prevents the distribution of tampered or malformed chunks.
     > In experimental evaluations on a real-world IoT testbed, we demonstrate feasible  strategies with adaptive bandwidth consumption and a high resilience to connectivity loss when replicating firmware images into the IoT edge.
+
+Please follow our [Getting Started](getting-started.md) instructions for further information on how to compile and execute the code.
+
+<!-- TODO: update URLs -->
+[paper-link]:https://github.com/inetrg/ACM-ICN-2021-FWUPDATE
+<!-- [paper-badge]:https://img.shields.io/badge/Paper-IEEE%20Xplore-green -->
+[paper-badge]:https://img.shields.io/badge/Paper-ACM%20DL-gray
