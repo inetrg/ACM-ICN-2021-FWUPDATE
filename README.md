@@ -18,6 +18,5 @@ In: Proc. of 8th ACM Conference on Information-Centric Networking (ICN), ACM : N
 Please follow our [Getting Started](getting-started.md) instructions for further information on how to compile and execute the code.
 
 <!-- TODO: update URLs -->
-[paper-link]:https://github.com/inetrg/ACM-ICN-2021-FWUPDATE
-<!-- [paper-badge]:https://img.shields.io/badge/Paper-IEEE%20Xplore-green -->
-[paper-badge]:https://img.shields.io/badge/Paper-ACM%20DL-gray
+[paper-link]:https://doi.org/10.1145/3460417.3482974
+[paper-badge]:https://img.shields.io/badge/Paper-ACM%20DL-green
